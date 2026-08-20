@@ -45,10 +45,10 @@ MIT — consistent with Harness ecosystem. Free to integrate, modify, distribute
 
 
 <details>
-<summary>🔍 展开查看思考锚点地图  
+<summary>🔍 展开查看思考锚点地图  </summary>
 ## A Living Map of Our Thinking
 
-</details>
+
 
 # AI Reliability Assessment: Anchors & Seeds
 
@@ -88,4 +88,4 @@ MIT — consistent with Harness ecosystem. Free to integrate, modify, distribute
 ---
 *This repository is a living thought-space, not a static archive.  
 Updated with care by [Your Name] & Weiming Teacher.*
- 
+ </details>
