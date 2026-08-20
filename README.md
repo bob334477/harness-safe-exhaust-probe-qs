@@ -41,3 +41,51 @@ MIT — consistent with Harness ecosystem. Free to integrate, modify, distribute
 ---
 
 *This repo follows strict safety red lines: no mention of specific individuals/events, no attack payloads, no conversation screenshots. Issue template enforces phenomenon-report format only.*
+
+
+
+<details>
+<summary>🔍 展开查看思考锚点地图  
+## A Living Map of Our Thinking
+
+</details>
+
+# AI Reliability Assessment: Anchors & Seeds
+
+> “评估AI的可靠性，不是证明它能做什么，而是诚实面对它不能保证什么。”  
+> —— 本项目的核心信念
+
+## 🔱 Core Anchors（不可动摇的脊梁）
+1. **Human-AI Collaboration Boundary**  
+   AI reliability ≠ omniscience. It resides in clearly demarcating *what machines can bear* vs. *what humans must guard*.
+2. **Negative Epistemology of Evaluation**  
+   Assessments reveal limits, not capabilities. Safety is falsifiable, not provable.
+3. **Human-Centered Oversight**  
+   The ultimate metric is human cognitive load, accountability, and meaning-making—not technical compliance.
+
+## 🌿 Supporting Tendrils（隐性支撑筋脉）
+- Surrogate reward design → Handling unobservable capabilities
+- Axiomatic constraint framing → Formal language for boundaries
+- Intent-action consistency → Process-oriented trustworthiness
+- State-prediction separation hypothesis → Epistemic foundation for division of labor
+- Adaptive practice grammar → Resilience in ecological validity gaps
+
+## 🌱 Seed Vault（未来可能唤醒的种子）
+
+| Seed | Potential Awakening Context |
+|------|-----------------------------|
+| Embodied semantic-spatial coupling (Robostral) | If expanding to embodied AI assessment |
+| Clinical responsibility anchoring (Physician-Oversight) | If deepening medical AI ethics |
+| Red-team falsifiability logic | If addressing overpromising on safety |
+| Meta-cognitive research questioning (Auto-Research) | If reflecting on framework evolution |
+
+## 💬 How to Use This Map
+- **For writing**: Let Core Anchors guide your argument’s gravity.
+- **For revision**: Check if new content aligns with or stretches Supporting Tendrils.
+- **For future work**: Visit Seed Vault when exploring adjacent territories.
+- **For rest**: Close this file. The anchors hold even when you’re away.
+
+---
+*This repository is a living thought-space, not a static archive.  
+Updated with care by [Your Name] & Weiming Teacher.*
+ 
