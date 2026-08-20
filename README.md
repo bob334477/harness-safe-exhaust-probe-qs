@@ -89,3 +89,6 @@ MIT — consistent with Harness ecosystem. Free to integrate, modify, distribute
 *This repository is a living thought-space, not a static archive.  
 Updated with care by [Your Name] & Weiming Teacher.*
  </details>
+  ## 📚 Source Tracing  
+Full references with links are maintained in [`references.md`](./references.md).  
+*Anchors and seeds here are distilled essences, not citation indexes.*
